@@ -1,5 +1,5 @@
 git is version control system
-git is a free software
+git is  free software
 git tracks changes of file
 <<<<<<< HEAD
 <<<<<<< HEAD
